@@ -33,9 +33,9 @@ const logger = function() {
 
 logger();
 
-const calc = (a, b) =>  a + b;
+const cal = (a, b) =>  a + b;
 
-const calc = (a, b) => {
+const calcul = (a, b) => {
     console.log('1');
     return a + b;
 };
